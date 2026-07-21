@@ -1,4 +1,4 @@
-## Natalia Gumińska, PhD
+## Hello world!
 
 Postdoctoral researcher in the Laboratory of RNA Biology (ERA Chairs Group) at the
 International Institute of Molecular and Cell Biology in Warsaw.
