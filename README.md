@@ -1,6 +1,6 @@
 ## Hello world!
 
-Postdoctoral researcher in the Laboratory of RNA Biology (ERA Chairs Group) at the
+I'm a postdoctoral researcher in the Laboratory of RNA Biology (ERA Chairs Group) at the
 International Institute of Molecular and Cell Biology in Warsaw.
 
 I study RNA tails: how long they are, what they are made of, and how to measure both
