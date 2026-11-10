@@ -13,6 +13,7 @@ it ends up as software other people can run on their own data.
 | | |
 |:--|:--|
 | **[ninetails](https://github.com/LRB-IIMCB/ninetails)** | Detects non-adenosine residues inside poly(A) tails from nanopore signal, using a convolutional classifier. Author and maintainer. [Docs](https://lrb-iimcb.github.io/ninetails/) · [Paper](https://doi.org/10.1038/s41467-025-57787-6) |
+|**pod5R**|A lightweight native R library for reading pod5 Oxford Nanopore Technologies proprietary format. Author.|
 | **nanotail2** | Poly(A) tail length analysis, comparison and plotting for direct RNA sequencing. Author. |
 | **[NanoQuRe](https://github.com/LRB-IIMCB/NanoQuRe)** | Quality control reporting for nanopore runs. Contributor. |
 | **[rDNAmine](https://github.com/LRB-IIMCB/rDNA_mine)** | Analysis of long repetitive rDNA sequences in nanopore reads. Co-author. [Paper](https://doi.org/10.1002/yea.70023) |
