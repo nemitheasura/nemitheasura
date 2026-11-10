@@ -25,8 +25,7 @@ sequencing metadata traceable.
 I draw. Figures, schematics and graphical abstracts for papers and press, the visual
 identification of the [DEGRONOPEDIA](https://degronopedia.com/) web server, and
 science illustration on my Facebook page,
-[Biorysunki](https://www.facebook.com/biorysunki). There is a gallery on
-[the site](https://nemitheasura.github.io/illustrations/).
+[Biorysunki](https://www.facebook.com/biorysunki).
 
 ### Elsewhere
 
