@@ -7,15 +7,6 @@ I study RNA tails: how long they are, what they are made of, and how to measure 
 reliably. Most of that work runs on Oxford Nanopore direct RNA sequencing, and most of
 it ends up as software other people can run on their own data.
 
-**[nemitheasura.github.io](https://nemitheasura.github.io)**
-
-<!-- Optional screenshot. Take one of the homepage, save it in this repository as
-     preview.png, and uncomment the two lines below.
-
-[![The site](preview.png)](https://nemitheasura.github.io)
-
-     GitHub strips scripts and iframes from profile READMEs, so a linked image is
-     the only way to show the site itself here. -->
 
 ### Research software
 
