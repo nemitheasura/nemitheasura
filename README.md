@@ -18,6 +18,10 @@ it ends up as software other people can run on their own data.
 | **[NanoQuRe](https://github.com/LRB-IIMCB/NanoQuRe)** | Quality control reporting for nanopore runs. Contributor. |
 | **[rDNAmine](https://github.com/LRB-IIMCB/rDNA_mine)** | Analysis of long repetitive rDNA sequences in nanopore reads. Co-author. [Paper](https://doi.org/10.1002/yea.70023) |
 
+
+
+<img width="722" height="232" alt="softwarelogos" src="https://github.com/user-attachments/assets/38c5e9b6-2576-46a5-a4e7-ff625f0ac864" />
+
 Mostly R, increasingly Python, with SQL for the laboratory databases that keep
 sequencing metadata traceable.
 
