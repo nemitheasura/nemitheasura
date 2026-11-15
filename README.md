@@ -30,7 +30,6 @@ science illustration on my Facebook page,
 
 ### Elsewhere
 
-[Website](https://nemitheasura.github.io) ·
 [ORCID](https://orcid.org/0000-0002-4599-2897) ·
 [Google Scholar](https://scholar.google.com/citations?user=Xx8ApXAAAAAJ&hl=en) ·
 [LinkedIn](https://www.linkedin.com/in/natalia-gumi%C5%84ska-49b162115/) ·
