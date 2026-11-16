@@ -10,6 +10,8 @@ it ends up as software other people can run on their own data.
 
 ### Research software
 
+Mostly R, increasingly Python, with SQL for the laboratory databases that keep sequencing metadata traceable.
+
 | | |
 |:--|:--|
 | **[ninetails](https://github.com/LRB-IIMCB/ninetails)** | Detects non-adenosine residues inside poly(A) tails from nanopore signal, using a convolutional classifier. Author and maintainer. [Docs](https://lrb-iimcb.github.io/ninetails/) · [Paper](https://doi.org/10.1038/s41467-025-57787-6) |
@@ -22,8 +24,7 @@ it ends up as software other people can run on their own data.
 
 <img width="722" height="232" alt="softwarelogos" src="https://github.com/user-attachments/assets/38c5e9b6-2576-46a5-a4e7-ff625f0ac864" />
 
-Mostly R, increasingly Python, with SQL for the laboratory databases that keep
-sequencing metadata traceable.
+
 
 ### Also
 
